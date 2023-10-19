@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const GetApp = () => {
   return (
-    <section className='flexCenter flex-col w-full pb-[100px] border-2 border-red-500'>
+    <section className='flexCenter flex-col w-full pb-[100px]'>
       <div className='get-app'>
         <div className='z-20 flex w-full flex-1 flex-col items-start justify-center gap-12'>
           <h2 className='bold-40 lg:bold-64 xl:max-w-[320px]'>
